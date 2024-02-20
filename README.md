@@ -1,4 +1,4 @@
-# epl342.team2.Project - Simple Google Forms Clone
+# epl342.team2.Project - T-SQL Driven Survey Platform
 
 * Using XAMPP and an Azure DB.
 
